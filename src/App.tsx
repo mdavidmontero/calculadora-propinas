@@ -32,7 +32,7 @@ function App() {
               <OrderTotals order={order} tip={tip} placeOrder={placeOrder} />
             </>
           ) : (
-            <p className="text-center">La ordern esta vacia</p>
+            <p className="text-center">La order esta vacia</p>
           )}
         </div>
       </main>
